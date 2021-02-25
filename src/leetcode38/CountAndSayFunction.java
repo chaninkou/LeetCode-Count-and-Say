@@ -1,4 +1,4 @@
-package countsay;
+package leetcode38;
 
 public class CountAndSayFunction {
 	 public String countAndSay(int n) {
