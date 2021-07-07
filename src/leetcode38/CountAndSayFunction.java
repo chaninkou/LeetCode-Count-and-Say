@@ -14,7 +14,7 @@ public class CountAndSayFunction {
 	    public String countSay(String s){
 	        StringBuilder sb = new StringBuilder();
 	        
-	        // lowerbound
+	        // lower bound
 	        char lowerBound = s.charAt(0);
 	        
 	        // Count will only be 1 or 2
